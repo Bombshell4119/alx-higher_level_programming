@@ -1,0 +1,1 @@
+This is the very beginning of my python learning process in the Alx-Holberton software engineering programme. This directory contains sample python codes.
