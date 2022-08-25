@@ -1,0 +1,1 @@
+This directory contains the sample codes on python if-else and loop statements
