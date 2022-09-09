@@ -1,0 +1,1 @@
+This directory contains sample python code on dynamic libraries. In furtherance of my studies with Alx-Holberton software programming.
